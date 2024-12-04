@@ -1,4 +1,5 @@
-[![DOI](https://zenodo.org/badge/898487656.svg)](https://zenodo.org/badge/latestdoi/898487656)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14277307.svg)](https://doi.org/10.5281/zenodo.14277307)
+
 
 Information Visualization is a field in computer sciences that is mainly focused on how to visually map abstract data. Information Visualization are visual representations of the semantics, or meaning, of information. In contrast to scientific visualization, which deals with physically-based data, information visualization typically deals with nonnumeric, nonspatial, and high-dimensional data.
 
